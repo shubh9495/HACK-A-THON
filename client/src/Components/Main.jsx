@@ -46,7 +46,7 @@ const Main = () => {
         </button>
 
         <button
-          className="Others"
+          className="category"
           onClick={() => {
             setele(data);
           }}
