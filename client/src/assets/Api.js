@@ -320,46 +320,40 @@ export const data = [
         id:37,
         name:"Tehri Dam",
         image:"url('tehri.jfif')",
-        group:'other',
+        group:'other
         link:''
         },
              {
         id:38,
         name:"Nanda devi",
-        image:"",
+        image:"url('nandadevi.jpg')",
         group:'mountain',
         link:''
         },
         id:39,
         name:"Chaukhamba",
-        image:"",
+        image:"url('chaukhamba.jpg')",
         group:'mountain',
         link:''
         },
         id:40,
         name:"trisul",
-        image:"",
+        image:"url('trisul.jpg')",
         group:'mountain',
         link:''
         },
          id:41,
         name:"kamet",
-        image:"",
+        image:"url('kamet.jpg')",
         group:'mountain',
         link:''
         },
        id:42,
         name:"Panchuli",
-        image:"",
+        image:"url('punchchuli.jpg')",
         group:'mountain',
         link:''
-        },
-        id:43,
-        name:"nag tibba",
-        image:"",
-        group:'mountain',
-        link:''
-        },
+        };
         
         
     
