@@ -322,7 +322,46 @@ export const data = [
         image:"url('tehri.jfif')",
         group:'other',
         link:''
-        };
+        },
+             {
+        id:38,
+        name:"Nanda devi",
+        image:"",
+        group:'mountain',
+        link:''
+        },
+        id:39,
+        name:"Chaukhamba",
+        image:"",
+        group:'mountain',
+        link:''
+        },
+        id:40,
+        name:"trisul",
+        image:"",
+        group:'mountain',
+        link:''
+        },
+         id:41,
+        name:"kamet",
+        image:"",
+        group:'mountain',
+        link:''
+        },
+       id:42,
+        name:"Panchuli",
+        image:"",
+        group:'mountain',
+        link:''
+        },
+        id:43,
+        name:"nag tibba",
+        image:"",
+        group:'mountain',
+        link:''
+        },
+        
+        
     
     
 ]
