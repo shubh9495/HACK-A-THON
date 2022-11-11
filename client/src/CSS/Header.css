@@ -1,0 +1,15 @@
+html{
+    font-size: 30px;
+}
+
+.header{
+    
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    height: 10.0rem;
+    padding: .5rem;
+    text-align: center;
+    width: 100%;
+}
