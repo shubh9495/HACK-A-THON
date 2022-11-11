@@ -5,7 +5,7 @@ const Header = () => {
     <>
         <div className="header">
         <h1>UTTARAKHAND</h1>
-        <h2>THE LAND OF GODS</h2>
+        <p>THE LAND OF GODS</p>
         </div>
     </>
   )
